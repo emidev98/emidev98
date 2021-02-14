@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emidev98
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning everything I can 
+- 💞️ I’m looking to collaborate on whatever interesting project
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/eharastasan/)
