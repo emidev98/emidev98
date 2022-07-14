@@ -9,7 +9,7 @@ My passion is to solver problems by using software. In this GitHub you can find 
 
 <h1>Tech stack</h1>
 
-In my former experiences I have been building analytics platforms with Angular, microservices with Java, payments solutions with different payments gateways, and many other things... The stack currently use is focus on Blockchain and Web3.
+In my former experiences I have been building analytics platforms with Angular, microservices with Java, payments solutions with different payments gateways, and many other things... My current stack is 100% focus on Blockchain and Web3.
 
 <div align="center">
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=emidev98&langs_count=4&hide=css,scss,html&hide_title=true' alt=''/>
