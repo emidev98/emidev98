@@ -2,28 +2,34 @@
 
 My passion is to solver problems by using software. In this GitHub you can find a lot of open source project I have been building over time and many contributions to some other organizations.
 
-<center>
-<img src='https://github-readme-stats.vercel.app/api?username=emidev98&count_private=true&theme=prussian&show_icons=true&border_radius=2&hide_title=true' alt=''/>
-</center>
+<div align="center">
+    <img src='https://github-readme-stats.vercel.app/api?username=emidev98&count_private=true&show_icons=true&border_radius=2&hide_title=true' alt=''/>
+</div>
+
 
 <h1>Tech stack</h1>
 
 In my former experiences I have been building analytics platforms with Angular, microservices with Java, payments solutions with different payments gateways, and many other things... The stack currently use is focus on Blockchain and Web3.
 
-<center>
-<div style='text-align:center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=emidev98&theme=prussian&langs_count=4&hide=css,scss,html&hide_title=true' alt=''/>
+<div align="center">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=emidev98&langs_count=4&hide=css,scss,html&hide_title=true' alt=''/>
 </div>
 
 <br/>
 
-<div style='display:flex; gap: 1em; justify-content:center'>
-    <img src='./assets/linux.svg'>
-    <img src='./assets/cosmos-sdk.svg'>
-    <img src='./assets/react.svg'>
-    <img src='./assets/angular.svg'>
-    <img src='./assets/git.svg'>
-    <img src='./assets/docker.svg'>
+<div align="center">
+    <img src='./assets/linux.svg' alt=''>
+    <img src='./assets/cosmos-sdk.svg' alt=''>
+    <img src='./assets/react.svg' alt=''>
+    <img src='./assets/angular.svg' alt=''>
+    <img src='./assets/git.svg' alt=''>
+    <img src='./assets/docker.svg' alt=''>
+</div>
+
+<br/>
+
+<div align="center">
+    <img src='https://github-profile-trophy.vercel.app/?username=emidev98&no-frame=true&margin-w=2&theme=flat&column=7' alt=''/>
 </div>
 
 <!-- 
@@ -40,6 +46,9 @@ In my former experiences I have been building analytics platforms with Angular, 
     </a>
 <div>
 -->
+
 <!-- Readme build with help from: 
     - https://github.com/anuraghazra/github-readme-stats
-    - https://shields.io/ -->
+    - https://shields.io/ 
+    - https://github.com/ryo-ma/github-profile-trophy
+-->
