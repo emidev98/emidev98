@@ -3,11 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=emidev98&show_icons=true&count_private=true&theme=flat&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=emidev98&hide_border=true&theme=flat&bg_color=00000000&langs_count=4&langs_count=4&hide=css,scss,html&hide_title=true">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=emidev98&theme=flat&hide_border=true&background=00000000">
-  <br>
-  <br>
+  <img src ="https://github-readme-stats.vercel.app/api?username=emidev98&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&bg_color=00000000&hide_rank=true&text_color=fff&title_color=fff">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=emidev98&hide_border=true&bg_color=00000000&langs_count=4&hide=css,scss,html&hide_title=true&text_color=fff&title_color=fff">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=emidev98&theme=highcontrast&hide_border=true&background=00000000&text_color=fff&title_color=fff">
 </p>
 
 
