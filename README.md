@@ -1,7 +1,17 @@
-<h1>Hey, my name is Emi</h1>
+<h1 align="center">
+    Software Developer
+</h1>
 
-My passion is to solver problems by using software. In this GitHub you can find a lot of open source project I have been building over time and many contributions to some other organizations.
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=emidev98&show_icons=true&count_private=true&theme=flat&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=emidev98&hide_border=true&theme=flat&bg_color=00000000&langs_count=4&langs_count=4&hide=css,scss,html&hide_title=true">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=emidev98&theme=flat&hide_border=true&background=00000000">
+  <br>
+  <br>
+</p>
 
+
+<!--
 <div align="center">
     <img src='https://github-readme-stats.vercel.app/api?username=emidev98&count_private=true&show_icons=true&border_radius=2&hide_title=true' alt=''/>
 </div>
@@ -32,7 +42,6 @@ In my former experiences I have been building analytics platforms with Angular, 
     <img src='https://github-profile-trophy.vercel.app/?username=emidev98&no-frame=true&margin-w=2&theme=flat&column=7' alt=''/>
 </div>
 
-<!-- 
 <h1>Open-source contributions</h1>
 <div style='display:grid; grid-template-columns: auto auto auto;gap:1rem'>
     <a href='https://github.com/terra-money/terrain' target='_blank'>
@@ -45,9 +54,8 @@ In my former experiences I have been building analytics platforms with Angular, 
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=emidev98&repo=token-snapshot&theme=prussian&show_owner=true' alt=''/>
     </a>
 <div>
--->
 
-<!-- Readme build with help from: 
+Readme build with help from: 
     - https://github.com/anuraghazra/github-readme-stats
     - https://shields.io/ 
     - https://github.com/ryo-ma/github-profile-trophy
